@@ -4,7 +4,7 @@
  
  <details>
 <summary>📖language</summary>
-・c++ <br>
+・c/c++ <br>
 </details>
 
 
