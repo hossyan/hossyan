@@ -11,10 +11,15 @@
 <details>
 <summary>👨‍💻technologies</summary>
 ・Creo Parametric
+ 
 ・SOLIDWORKS
+ 
 ・KICAD
+ 
 ・Arduino
+ 
 ・Vscode
+ 
 ・ROS
 </details>
 
