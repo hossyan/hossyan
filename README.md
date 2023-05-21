@@ -3,11 +3,19 @@
  I will be posting mainly what I have created in Robocon and research.
  
  <details>
-<summary>xxx</summary>
+<summary>📖language</summary>
+・c++
+</details>
 
-aaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccc
+
+<details>
+<summary>👨‍💻technologies</summary>
+・Creo Parametric
+・SOLIDWORKS
+・KICAD
+・Arduino
+・Vscode
+・ROS
 </details>
 
 <!--
