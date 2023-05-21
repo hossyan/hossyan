@@ -4,23 +4,18 @@
  
  <details>
 <summary>📖language</summary>
-・c++
+・c++ <br>
 </details>
 
 
 <details>
 <summary>👨‍💻technologies</summary>
-・Creo Parametric
- 
-・SOLIDWORKS
- 
-・KICAD
- 
-・Arduino
- 
-・Vscode
- 
-・ROS
+・Creo Parametric <br>
+・SOLIDWORKS <br>
+・KICAD <br>
+・Arduino <br>
+・Vscode <br>
+・ROS <br>
 </details>
 
 <!--
