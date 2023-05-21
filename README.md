@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile!
+ I am a team leader and mechanical person in the [robotclub](https://twitter.com/opuct_robotclub) of [OMUCT](https://www.ct.omu.ac.jp/) in Japan. 
+ I will be posting mainly what I have created in Robocon and
 
 <!--
 **hossyan/hossyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
