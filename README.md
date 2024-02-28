@@ -18,7 +18,7 @@
 ・ROS <br>
 </details>
 
-[portfolio]( https://hossyan.github.io/portfolio/)
+[portfolio](https://hossyan.github.io/hossyan/)
 
 <!--
 **hossyan/hossyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
